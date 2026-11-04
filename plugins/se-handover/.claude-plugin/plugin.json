@@ -1,0 +1,9 @@
+{
+  "name": "se-handover",
+  "version": "0.1.1",
+  "description": "Prepares a Solutions Engineer (or any post-sales technical owner) for an account handover: handover plan, sentiment interview, sourced per-account packs, a queryable knowledge base, one-pagers for managers — plus skills for the successor to query and keep the knowledge base alive.",
+  "author": {
+    "name": "SE Handover plugin contributors"
+  },
+  "keywords": ["handover", "solutions-engineering", "customer-success", "account-management", "knowledge-base", "offboarding", "onboarding"]
+}

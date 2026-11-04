@@ -1,0 +1,18 @@
+{
+  "name": "se-handover-plugin",
+  "owner": {
+    "name": "SE Handover plugin contributors"
+  },
+  "metadata": {
+    "description": "Claude plugin that prepares a Solutions Engineer for an account handover and gives the successor a queryable knowledge base."
+  },
+  "plugins": [
+    {
+      "name": "se-handover",
+      "source": "./plugins/se-handover",
+      "description": "Handover plan, sentiment interview, sourced per-account packs, a queryable knowledge base, manager one-pagers — plus successor skills to query and maintain it.",
+      "version": "0.1.1",
+      "keywords": ["handover", "solutions-engineering", "customer-success", "knowledge-base"]
+    }
+  ]
+}
